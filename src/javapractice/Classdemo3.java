@@ -1,16 +1,15 @@
 package javapractice;
 
-public class Classdemo2 {
+public class Classdemo3 {
 	
 	int x =90;
 	int y =100;
 
 	public static void main(String[] args) {
 		
-		Classdemo2 obj1 = new Classdemo2();
+		Classdemo3 obj1 = new Classdemo3();
 		obj1.sum();
-		System.out.println("sum is " +obj1.x);
-		System.out.println("i am learning automation");
+		System.out.println("sum is " +obj1.y);
 
 	}
 	
