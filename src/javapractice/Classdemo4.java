@@ -15,8 +15,8 @@ public class Classdemo4 {
 	}
 	
 	public void sum(){
-		int a = 30;
-		int b = 40;
+		int a = 300;
+		int b = 400;
 		int c = a + b;
 		System.out.println("addition of two numbers is " +c);
 	}
